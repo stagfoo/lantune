@@ -1,0 +1,9 @@
+
+.icon-home:before { content: '\e800'; } /* '' */
+.icon-back:before { content: '\e803'; } /* '' */
+.icon-like:before { content: '\e805'; } /* '' */
+.icon-liked:before { content: '\e804'; } /* '' */
+.icon-fav:before { content: '\e806'; } /* '' */
+.icon-faved:before { content: '\e807'; } /* '' */
+.icon-tv:before { content: '\e802'; } /* '' */
+.icon-movie:before { content: '\e801'; } /* '' */
